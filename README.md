@@ -1,5 +1,5 @@
-In _Determining Solar Cell Parameters and Degradation Rates from Power Production Data_ (Chakar et al., 2022), we demonstrated the exciting possibility of extracting the diode-model parameters and degradation rates of a photovoltaic system from widely-accessible power generation and weather data.
+In _Determining Solar Cell Parameters and Degradation Rates from Power Production Data_ (Chakar et al., 2022), we demonstrated the exciting possibility of extracting the diode-model parameters and degradation rates of a photovoltaic system from widely-accessible power generation and weather data. Link to the article: doi.org/10.1016/j.ecmx.2022.100270
 
-Link to the article: https://doi.org/10.1016/j.ecmx.2022.100270
+In _A Bayesian Inference Approach to Extract Circuit Model Parameters and Analyze Photovoltaic Degradation from Power Production Data_ (Chakar et al., 2023), we show how switching to the Bayesian framework can help us construct probability distributions over the model parameters, get a comprehensive picture of the solution space, and quantify prediction uncertainty in an effort to overcome the challenges associated with this task. Link to the pre-print (article still under review): doi.org/10.2139/ssrn.4593263
 
 The data that support the findings of this study are openly available in the following repository: https://gitlab.in2p3.fr/energy4climate/public/sirta-pv1-data
